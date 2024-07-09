@@ -12,6 +12,10 @@
 - Lorem Ipsum already added to `strings.xml`
 - Data Binding already configured
 
+### TBD:
+- Splash screen API
+- FlowDB
+
 ### How to use?
 
 However you like, just download and start coding. Beyond that, these are my suggestions:
@@ -23,4 +27,4 @@ However you like, just download and start coding. Beyond that, these are my sugg
 5. Change package name in module's `build.gradle.kts`
 6. Refactor the name of the package dir `nacholab.androidbase`
 7. Run the app, you should see the app's name centered in the screen
-
+8. Have fun!
