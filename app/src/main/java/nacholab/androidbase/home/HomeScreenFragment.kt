@@ -35,6 +35,7 @@ class HomeScreenFragment: BaseScreenFragment<FragmentHomeBinding>() {
     override fun bindToViewModel() {
         binding?.apply {
             viewModel = homeViewModel
+            appName = getString(R.string.app_name)
         }
     }
 }
