@@ -2,7 +2,7 @@
 
 ### Basic Android project following MVVM with the following components:
 
-- Retrofit API configured with easy to add interceptors anc cachè
+- Retrofit API configured with easy to add interceptors and cachè
 - Meta Flipper with already configured SQLite, SharedPreferences and Network plugins
 - Several Android tools for doing stuff like converting units, managing the virtual keyboard, handeling of navbar and statusbar, etc...
 - BaseFragment and BaseScreenFragment to help with screens and dialogs creation.
@@ -15,6 +15,7 @@
 ### TBD:
 - Splash screen API
 - FlowDB
+- Light / Dark mode support
 
 ### How to use?
 
